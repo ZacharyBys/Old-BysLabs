@@ -178,8 +178,11 @@
 }
 .project_links{
     position:relative;
-    top:-55%;
+    bottom:45%;
     margin-left:2%;
+}
+.proj_link{
+    top=40%;
 }
 .proj_social{
     height:50px;
