@@ -193,6 +193,7 @@
     top:-139%;
     left:60%;
 }
+
 #hashtag_game{
     width:30%;
     left:65%;
@@ -203,6 +204,14 @@
   -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
+}
+
+.slider {
+    position:relative;
+    width:12vw;
+    bottom:4vw;
+    float:right;
+    right:4vw;
 }
 #rights{
     position:absolute;
