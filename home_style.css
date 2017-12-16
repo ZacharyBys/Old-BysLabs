@@ -118,6 +118,7 @@
 .tbl{
      border:25px solid white;
     table-layout:fixed;
+    position:inherit;
 }
 .project{
     background-color:#E3E3E3;
@@ -209,6 +210,7 @@
 .slider {
     position:relative;
     width:12vw;
+    height:18.7vw;
     bottom:4vw;
     float:right;
     right:4vw;
